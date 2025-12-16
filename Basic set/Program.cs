@@ -7,9 +7,9 @@ namespace Demo32
         static void Main(string[] args)
         {
 /*
-            Console.WriteLine("Enter The Number 1");
+            Console.WriteLine("Enter The Number1");
             int n1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter The Number 2");
+            Console.WriteLine("Enter The Number2");
             int n2 = int.Parse(Console.ReadLine());
 
                         Console.WriteLine(n1 + n2);
@@ -19,12 +19,12 @@ namespace Demo32
    */
      
            Console.WriteLine("enter the value a");
-            int a = int.Parse(Console.ReadLine());
+            int A = int.Parse(Console.ReadLine());
             Console.WriteLine("ente the value b");
-            int b = int.Parse(Console.ReadLine());
+            int B = int.Parse(Console.ReadLine());
 
       
-            Console.WriteLine(Math.Pow(a,b));
+            Console.WriteLine(Math.Pow(A,B));
               
 
           /*  Console.WriteLine("enter your length");
