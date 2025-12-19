@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\bin\Debug\ConsoleApplicationset3.exe.config
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\bin\Debug\ConsoleApplicationset3.exe
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\bin\Debug\ConsoleApplicationset3.pdb
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\obj\Debug\ConsoleApplicationset3.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\obj\Debug\ConsoleApplicationset3.exe
+C:\Users\Admin\Desktop\Program\ConsoleApplicationset3\obj\Debug\ConsoleApplicationset3.pdb
